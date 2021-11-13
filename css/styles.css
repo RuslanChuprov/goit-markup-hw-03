@@ -315,6 +315,7 @@ img {
 .portfolio-button {
   height: 38px;
   border-radius: 4px;
+  padding: 6px 22px;
 
   background-color: var(--background-color);
   color: var(--title-text-color);
@@ -354,6 +355,7 @@ img {
   color: var(--address-color);
 }*/
 .footer {
+  display: flex;
   background-color: var(--background-hero);
 }
 
